@@ -1,0 +1,20 @@
+h2{
+	text-align: center;
+	color: black;
+	font-weight: 800;
+}
+td{
+	height: 100px;
+	width: 100px;
+}
+.hl{
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+}
+.pl{
+	border-right: 1px solid black;
+	border-left: 1px solid black;
+}
+table{
+	margin: auto;
+}
